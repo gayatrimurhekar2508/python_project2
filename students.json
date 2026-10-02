@@ -1,0 +1,6 @@
+{
+    "students": [
+        {"name": "Aarav", "roll_number": 1, "marks": 85},
+        {"name": "Priya", "roll_number": 2, "marks": 91}
+    ]
+}

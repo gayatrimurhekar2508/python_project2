@@ -1,0 +1,3 @@
+Skill Nexis Week 2 Assignment.
+Python file handling is useful for storing and reading data.
+This is a sample text file for the word counter.
